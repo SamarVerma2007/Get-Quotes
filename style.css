@@ -19,7 +19,7 @@ p{
 div{
     width: 50%;
     margin: auto;
-    height: 250px;
+    height: 300px;
     display: flex;
     border: 5px solid rgb(105, 56, 56);
     border-radius: 15px;
@@ -27,6 +27,8 @@ div{
 }
 
 h3{
+    padding-top: = 5px;
+    padding-bottom: = 5px;
     color: #fff;
     padding-left: 15px;
     padding-right: 5px;
